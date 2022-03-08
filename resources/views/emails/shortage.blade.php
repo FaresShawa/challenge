@@ -1,0 +1,1 @@
+There is shortage in {{ $ingrediant->name }}
